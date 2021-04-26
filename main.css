@@ -1,0 +1,34 @@
+h1{
+    color:rgb(85, 68, 238);
+    text-align: center;
+}
+h2{
+color: rgb(85, 68, 238);
+}
+
+
+p{
+
+    color:black;
+}
+
+
+
+
+.box{
+    width: 400px;
+    height: 50px;
+    padding: 30px;
+    border: 20px solid rgb(78, 76, 92);
+    margin: 20px;
+    background-color:rgb(85, 68, 238);
+}
+
+h3{
+    color:rgb(85, 68, 238);
+}
+
+
+#head{
+    color:rgb(85, 68, 238);
+}
